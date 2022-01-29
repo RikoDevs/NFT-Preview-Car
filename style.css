@@ -1,0 +1,134 @@
+html {
+background-color: hsl(217, 54%, 11%);
+align-items: center;
+justify-content: center;
+display: flex;
+font-family: Outfit;
+}
+
+.name {
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+}
+
+.name:hover {
+    transition-duration: 0.5s;
+    color: hsl(178, 100%, 50%);
+}
+.title a {
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.title span {
+    color: hsl(215, 51%, 70%);
+    font-family: Outfit;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.border1 h1 {
+    font-family: Outfit;
+    text-align:left;
+}
+
+.border1 {
+    position: relative;
+}
+.equil {
+    width: 70%;
+    border-radius: 1em;
+    margin-left: 3.5em;
+    margin-top: 2em;
+}
+
+.icon-view {
+    
+    display: inline-block;
+    position: absolute;
+    /* opacity: 0; */
+    border-radius: 1em;
+    width: 30%;
+    margin-left: 8.5em;
+    margin-top: 4.5em;
+    opacity: 0;
+}
+
+.equil, .icon-view {
+    top: 0;
+    left: 0;
+    right: 0;
+    display: block;
+}
+
+.main {
+    background-color: hsl(216, 50%, 16%);
+    margin: 10em;
+    padding: 1em;
+    border-radius: 1em;
+    background-size: 300px;
+    width: 25em;
+}
+
+.ethlogo {
+    margin-right: 0.5em;
+    display: inline;
+ 
+}
+
+div .price-eth {
+    margin-right: 12.5em;
+    color: hsl(178, 100%, 50%);
+    font-weight: 600;
+}
+
+.owner img {
+    width: 10%;
+    padding-top: 2em;
+ 
+}
+
+.price {
+    border-bottom: 2px solid hsl(215, 51%, 70%);
+    line-height: 4;
+}
+
+.duration {
+    color: hsl(215, 51%, 70%);
+}
+
+.owner {
+    float: center;
+
+}
+.creatorof {
+    margin-left: 1em;
+    font-weight: 400;
+    color:hsl(215, 51%, 70%);
+
+ 
+}
+
+.creator b {
+    color: white;
+}
+
+.title1:hover, .title1:focus {
+    transition-duration: 0.5s;
+    color: hsl(178, 100%, 50%);
+}
+
+.equil:hover {
+    transition-duration: 0.5s;
+    opacity: 100;
+    
+}
+
+.icon-view:hover {
+    opacity: 100%;
+    
+    transition-duration: 0.5s;
+}
