@@ -21,12 +21,6 @@ A simple NFT Preview Card
 ![](./screenshot.PNG)
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-
 ### Built with
 
 - HTML5
@@ -35,4 +29,4 @@ A simple NFT Preview Card
 
 ## Author
 
-- Instagram: @rikozz._ (https://www.instagram.com/rikozz._/)
+- Instagram: @riko_halimm (https://www.instagram.com/riko_halimm/)
